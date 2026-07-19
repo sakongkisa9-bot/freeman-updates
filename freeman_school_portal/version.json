@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "release_date": "2027-06-16",
-    "changelog": "final configuration"
+    "changelog": "fixed the subject sync"
 }
