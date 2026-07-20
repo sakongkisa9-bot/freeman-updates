@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "release_date": "2027-06-16",
-    "changelog": "fixed the subject sync"
+    "changelog": "ensured the system calculations is alligned with knec standards"
 }
