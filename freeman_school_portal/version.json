@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "release_date": "2027-06-16",
-    "changelog": "ensured the system calculations is alligned with knec standards"
+    "version": "1.0.8",
+    "release_date": "2027-07-26",
+    "changelog": "improve the local report form design"
 }
