@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "release_date": "2026-07-28",
-    "changelog": "Fixed update mechanism to properly install updates in executable mode",
+    "changelog": "fixed the payment methods and ready for test",
     "download_url": "https://sakongkisa9-bot.github.io/freeman-updates/freeman_school_portal/freeman_update_1.1.0.zip"
 }
