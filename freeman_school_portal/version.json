@@ -1,6 +1,6 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "release_date": "2026-10-04",
-    "changelog": "changed the error message at login page",
-    "download_url": "https://sakongkisa9-bot.github.io/freeman-updates/freeman_school_portal/freeman_update_1.1.0.zip"
+    "changelog": "changed the colours of login page",
+    "download_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.3/freeman_update_1.1.3.zip"
 }

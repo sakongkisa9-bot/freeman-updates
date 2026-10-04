@@ -1,0 +1,2 @@
+# Ignore zip files - they're now hosted on GitHub Releases
+*.zip
