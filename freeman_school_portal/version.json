@@ -1,6 +1,6 @@
 {
-    "version": "1.1.3",
-    "release_date": "2026-10-04",
-    "changelog": "new update tesitng of report forms",
-    "download_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.4/freeman_update_1.1.4.zip"
+    "version": "1.1.4",
+    "release_date": "",
+    "update_url": "https://sakongkisa9-bot.github.io/freeman-updates/freeman_school_portal/",
+    "changelog": "Fixed update mechanism to properly install updates in executable mode"
 }
