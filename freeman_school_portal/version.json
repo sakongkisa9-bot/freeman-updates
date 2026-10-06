@@ -1,6 +1,6 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "release_date": "",
-    "update_url": "https://sakongkisa9-bot.github.io/freeman-updates/freeman_school_portal/",
-    "changelog": "Fixed update mechanism to properly install updates in executable mode"
+    "update_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.5/freeman_update_1.1.5.zip",
+    "changelog": "just testing"
 }
