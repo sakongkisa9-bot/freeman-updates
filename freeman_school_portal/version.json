@@ -1,6 +1,7 @@
 {
-    "version": "1.1.6",
-    "release_date": "09/10/2026",
-    "update_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.5/freeman_update_1.1.5.zip",
-    "changelog": "changed the the of the login page"
+    "version": "1.1.7",
+    "release_date": "2026-10-12",
+    "update_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.7/freeman_update_1.1.7.zip",
+    "download_url": "https://github.com/sakongkisa9-bot/freeman-updates/releases/download/v1.1.7/freeman_update_1.1.7.zip",
+    "changelog": "Fixed executable update installation and rounded both splash screens"
 }
